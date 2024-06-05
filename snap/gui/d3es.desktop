@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Doom 3 ES
+Icon=${SNAP}/snap/gui/d3es.png
+Exec=d3es.d3es
+Categories=Game;ActionGame;
+Keywords=first;person;shooter;doom;
